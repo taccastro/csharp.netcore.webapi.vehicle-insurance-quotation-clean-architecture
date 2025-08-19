@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "I96df/qyB3AB41aw78coMZvuvoz5YiQSYIh6bNd18yA=",
+  "Source": "SeguroVeiculo.Api",
+  "BasePath": "_content/SeguroVeiculo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SeguroVeiculo.Api\\wwwroot",
+      "Source": "SeguroVeiculo.Api",
+      "ContentRoot": "D:\\workspace_visualcode\\SeguroVeiculo.Api\\wwwroot\\",
+      "BasePath": "_content/SeguroVeiculo.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\workspace_visualcode\\SeguroVeiculo.Api\\wwwroot\\index.html",
+      "SourceId": "SeguroVeiculo.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\workspace_visualcode\\SeguroVeiculo.Api\\wwwroot\\",
+      "BasePath": "_content/SeguroVeiculo.Api",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

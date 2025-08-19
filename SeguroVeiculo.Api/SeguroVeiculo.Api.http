@@ -1,0 +1,23 @@
+
+###
+### Registrar Seguro
+POST http://localhost:5142/api/seguro
+Content-Type: application/json
+
+{
+	"veiculo": {
+		"valor": 10000,
+		"marcaModelo": "Fiat Uno"
+	},
+	"segurado": {
+		"nome": "João",
+		"cpf": "12345678900",
+		"idade": 30
+	}
+}
+
+### Listar Seguros
+GET http://localhost:5142/api/seguro
+
+### Média dos Seguros
+GET http://localhost:5142/api/seguro/media

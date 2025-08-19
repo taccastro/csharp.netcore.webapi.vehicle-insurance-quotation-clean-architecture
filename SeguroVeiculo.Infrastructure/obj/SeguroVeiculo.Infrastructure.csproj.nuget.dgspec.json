@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\workspace_visualcode\\SeguroVeiculo.Infrastructure\\SeguroVeiculo.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\workspace_visualcode\\SeguroVeiculo.Domain\\SeguroVeiculo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\workspace_visualcode\\SeguroVeiculo.Domain\\SeguroVeiculo.Domain.csproj",
+        "projectName": "SeguroVeiculo.Domain",
+        "projectPath": "D:\\workspace_visualcode\\SeguroVeiculo.Domain\\SeguroVeiculo.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tiago Castro\\.nuget\\packages\\",
+        "outputPath": "D:\\workspace_visualcode\\SeguroVeiculo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tiago Castro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\workspace_visualcode\\SeguroVeiculo.Infrastructure\\SeguroVeiculo.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\workspace_visualcode\\SeguroVeiculo.Infrastructure\\SeguroVeiculo.Infrastructure.csproj",
+        "projectName": "SeguroVeiculo.Infrastructure",
+        "projectPath": "D:\\workspace_visualcode\\SeguroVeiculo.Infrastructure\\SeguroVeiculo.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Tiago Castro\\.nuget\\packages\\",
+        "outputPath": "D:\\workspace_visualcode\\SeguroVeiculo.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tiago Castro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\workspace_visualcode\\SeguroVeiculo.Domain\\SeguroVeiculo.Domain.csproj": {
+                "projectPath": "D:\\workspace_visualcode\\SeguroVeiculo.Domain\\SeguroVeiculo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

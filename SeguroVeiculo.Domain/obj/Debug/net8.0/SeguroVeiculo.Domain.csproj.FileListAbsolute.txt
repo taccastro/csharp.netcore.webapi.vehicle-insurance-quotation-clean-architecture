@@ -1,0 +1,11 @@
+D:\workspace_visualcode\SeguroVeiculo.Domain\bin\Debug\net8.0\SeguroVeiculo.Domain.deps.json
+D:\workspace_visualcode\SeguroVeiculo.Domain\bin\Debug\net8.0\SeguroVeiculo.Domain.dll
+D:\workspace_visualcode\SeguroVeiculo.Domain\bin\Debug\net8.0\SeguroVeiculo.Domain.pdb
+D:\workspace_visualcode\SeguroVeiculo.Domain\obj\Debug\net8.0\SeguroVeiculo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace_visualcode\SeguroVeiculo.Domain\obj\Debug\net8.0\SeguroVeiculo.Domain.AssemblyInfoInputs.cache
+D:\workspace_visualcode\SeguroVeiculo.Domain\obj\Debug\net8.0\SeguroVeiculo.Domain.AssemblyInfo.cs
+D:\workspace_visualcode\SeguroVeiculo.Domain\obj\Debug\net8.0\SeguroVeiculo.Domain.csproj.CoreCompileInputs.cache
+D:\workspace_visualcode\SeguroVeiculo.Domain\obj\Debug\net8.0\SeguroVeiculo.Domain.dll
+D:\workspace_visualcode\SeguroVeiculo.Domain\obj\Debug\net8.0\refint\SeguroVeiculo.Domain.dll
+D:\workspace_visualcode\SeguroVeiculo.Domain\obj\Debug\net8.0\SeguroVeiculo.Domain.pdb
+D:\workspace_visualcode\SeguroVeiculo.Domain\obj\Debug\net8.0\ref\SeguroVeiculo.Domain.dll

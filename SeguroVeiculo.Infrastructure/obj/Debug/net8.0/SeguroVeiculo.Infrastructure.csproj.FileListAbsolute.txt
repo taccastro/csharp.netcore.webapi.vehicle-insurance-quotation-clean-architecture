@@ -1,0 +1,15 @@
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\bin\Debug\net8.0\SeguroVeiculo.Infrastructure.deps.json
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\bin\Debug\net8.0\SeguroVeiculo.Infrastructure.dll
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\bin\Debug\net8.0\SeguroVeiculo.Infrastructure.pdb
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\bin\Debug\net8.0\SeguroVeiculo.Domain.dll
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\bin\Debug\net8.0\SeguroVeiculo.Domain.pdb
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\obj\Debug\net8.0\SeguroVeiculo.Infrastructure.csproj.AssemblyReference.cache
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\obj\Debug\net8.0\SeguroVeiculo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\obj\Debug\net8.0\SeguroVeiculo.Infrastructure.AssemblyInfoInputs.cache
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\obj\Debug\net8.0\SeguroVeiculo.Infrastructure.AssemblyInfo.cs
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\obj\Debug\net8.0\SeguroVeiculo.Infrastructure.csproj.CoreCompileInputs.cache
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\obj\Debug\net8.0\SeguroVe.B676656C.Up2Date
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\obj\Debug\net8.0\SeguroVeiculo.Infrastructure.dll
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\obj\Debug\net8.0\refint\SeguroVeiculo.Infrastructure.dll
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\obj\Debug\net8.0\SeguroVeiculo.Infrastructure.pdb
+D:\workspace_visualcode\SeguroVeiculo.Infrastructure\obj\Debug\net8.0\ref\SeguroVeiculo.Infrastructure.dll
